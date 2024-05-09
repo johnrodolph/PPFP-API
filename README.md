@@ -10,6 +10,8 @@ then make sure that in your workbench mysql username and password are the same i
 
 
 spring.datasource.username = root(edit if yours is different)
+
+
 spring.datasource.password = root(edit if yours is different)
 
 after doing this:
